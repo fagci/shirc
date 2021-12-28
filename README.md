@@ -1,6 +1,6 @@
 # shirc
 
-Simplest bash script irc client without dependencies
+Simplest bash script irc client without dependencies.
 
 Usage as logger:
 
