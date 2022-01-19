@@ -1,0 +1,57 @@
+:erbium.libera.chat NOTICE * :*** Checking Ident
+:erbium.libera.chat NOTICE * :*** Looking up your hostname...
+:erbium.libera.chat NOTICE * :*** Found your hostname: l37-193-172-29.novotelecom.ru
+:erbium.libera.chat NOTICE * :*** No Ident response
+:erbium.libera.chat 001 shirc-fagci-0481 :Welcome to the Libera.Chat Internet Relay Chat Network shirc-fagci-0481
+:erbium.libera.chat 002 shirc-fagci-0481 :Your host is erbium.libera.chat[82.96.96.60/6667], running version solanum-1.0-dev
+:erbium.libera.chat 003 shirc-fagci-0481 :This server was created Mon Nov 8 2021 at 06:08:28 UTC
+:erbium.libera.chat 004 shirc-fagci-0481 erbium.libera.chat solanum-1.0-dev DGQRSZaghilopsuwz CFILMPQSTbcefgijklmnopqrstuvz bkloveqjfI
+:erbium.libera.chat 005 shirc-fagci-0481 SAFELIST ELIST=CMNTU MONITOR=100 FNC WHOX ETRACE KNOCK CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQSTcgimnprstuz :are supported by this server
+:erbium.libera.chat 005 shirc-fagci-0481 CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+:erbium.libera.chat 005 shirc-fagci-0481 TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+:erbium.libera.chat 251 shirc-fagci-0481 :There are 64 users and 48321 invisible on 25 servers
+:erbium.libera.chat 252 shirc-fagci-0481 42 :IRC Operators online
+:erbium.libera.chat 253 shirc-fagci-0481 23 :unknown connection(s)
+:erbium.libera.chat 254 shirc-fagci-0481 21806 :channels formed
+:erbium.libera.chat 255 shirc-fagci-0481 :I have 2815 clients and 1 servers
+:erbium.libera.chat 265 shirc-fagci-0481 2815 4878 :Current local users 2815, max 4878
+:erbium.libera.chat 266 shirc-fagci-0481 48385 53550 :Current global users 48385, max 53550
+:erbium.libera.chat 250 shirc-fagci-0481 :Highest connection count: 4879 (4878 clients) (127092 connections received)
+:erbium.libera.chat 375 shirc-fagci-0481 :- erbium.libera.chat Message of the Day - 
+:erbium.libera.chat 372 shirc-fagci-0481 :- Welcome to Libera Chat, the IRC network for
+:erbium.libera.chat 372 shirc-fagci-0481 :- free & open-source software and peer directed projects.
+:erbium.libera.chat 372 shirc-fagci-0481 :-  
+:erbium.libera.chat 372 shirc-fagci-0481 :- Use of Libera Chat is governed by our network policies.
+:erbium.libera.chat 372 shirc-fagci-0481 :-  
+:erbium.libera.chat 372 shirc-fagci-0481 :- To reduce network abuses we perform open proxy checks
+:erbium.libera.chat 372 shirc-fagci-0481 :- on hosts at connection time.
+:erbium.libera.chat 372 shirc-fagci-0481 :-  
+:erbium.libera.chat 372 shirc-fagci-0481 :- Please visit us in #libera for questions and support.
+:erbium.libera.chat 372 shirc-fagci-0481 :-  
+:erbium.libera.chat 372 shirc-fagci-0481 :- Website and documentation:  https://libera.chat
+:erbium.libera.chat 372 shirc-fagci-0481 :- Webchat:                    https://web.libera.chat
+:erbium.libera.chat 372 shirc-fagci-0481 :- Network policies:           https://libera.chat/policies
+:erbium.libera.chat 372 shirc-fagci-0481 :- Email:                      support@libera.chat
+:erbium.libera.chat 376 shirc-fagci-0481 :End of /MOTD command.
+:shirc-fagci-0481 MODE shirc-fagci-0481 :+iw
+:shirc-fagci-0481!~shirc-fag@l37-193-172-29.novotelecom.ru JOIN #bash
+:erbium.libera.chat 332 shirc-fagci-0481 #bash :http://mywiki.wooledge.org/BashFAQ | http://mywiki.wooledge.org/BashGuide | http://gnu.org/s/bash/manual | https://wiki.bash-hackers.org/ | http://mywiki.wooledge.org/Quotes | http://www.shellcheck.net/ | https://lists.gnu.org/mailman/listinfo/help-bash | https://git.savannah.gnu.org/cgit/bash.git?h=devel
+:erbium.libera.chat 333 shirc-fagci-0481 #bash twkm 1621540050
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :shirc-fagci-0481 dreamon zebrag ryzenda Daemoen mr-red edlou kurahaupo1 volga629 junebug Betal Zauberfisch yustin shad dsrt^ riff-IRC magyar yac__ yac_ yac superboot situ YaoNai zro irc_user trekkie1701c dirigible The_Loko vlm Soni uuidNuni1 Seirdy aetnaeus crashrep kurahaupo seninha shokohsc emanuele6 l4yer rustyshackleford robobo7 sudomann polve greycat FluffyMask rgrinberg yuesbeez geli ouestbillie vicecea m0viefreak mtk A|an emg ChmEarl p-i- dextercd
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :mowcat mpagano [diablo] grettke hays ezzieyguywuf lucerne mongy Thanatermesis unop clime thebombzen richardm75 wolfshappen cdown kj semigloss ProperNoun sky- Dotz0cat skapata bn_work mauz whaa sublim20 medard__ jinsun Feuermagier fjmorazan zeraphel wwilliam teocle igemnace fluter mknod fatal vishal potamides tirnanog freep kyr gr33n7007h Gooberpatrol66 razzd777 Lord_of_Life lavaball jonakeys ElPresidente furrymcgee lsrtl_ erhandsome mithrin winstonsmith
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :dre bomb-on Earnestly aidalgol Lantizia docmax infl00p4 lewisje fedenix Bercik zaz\ cm315 karakedi chomwitt bluepenquin_ chasmo77 Doraemon timj duderonomy bob_x1 millido avu jos1 lemonsnicks brachamh pieguy128 et szkl zouhair tk checkbot pasteban pj aaro maledictium mooz NoelFlantier3 lmat PeGaSuS x88x88x Alternity themachine SpringSprocket Church luva din0 YoungFrog Strom uuidNuniq ilikeyou hid3 simpl_e zaden compuguy DPA The_Blode epony saki drewlander
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :ponyofdeath unixman_home bluepenquin terrorjack nf mat001 murder waxfire6 noarb libsys fstd Gerlo skered Namarrgon mute crabbedhaloablut jabster28 justaguy haliucinas JohnML fmirkes moto int Marbug marlun hyper_ch Kissaaja ryu` davef fling Chex brw LiQuId[m] worldofgeese tamz[m] fero[m] shroomreactionar SuperLag mz` GTAXL ds tomaw jrayhawk_ armin nanowire swoolley_ Guest903 goose yourname_ izabera burrows bid0uille dale kewl_fft Sketch dmvrtx_ Mmike_
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :harleypig yano heiner__ relipse dunc shush nem Razva rj1 jsatk__ e36freak gr33nR10t jab416171 WinterStar welder Abdullah Inline chiselfuse Maxattax domicron gxt tolecnal bobo csmiga lorimer overrider arooni omegatron raz keypusher varazir Byteflux Masklin_Gurder Nod0n[m] elastic_dog itachi19 Karyon cfaber mw_ wyre daniel-k Quack Scarecr0w cim MrA setesat tkazi bertptrs Al2O3 cebor bunny TMan459 dmonschein z8z samnob miique yitz ntz armands demonbane
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :marlinc riposte bodiccea b0b bertieb xayto bliminse reset stevenm hata moviuro Echoz selckin justJustache eldritch_ sdu TommyC LiENUS cryptonector e2 travisghansen zeamp gnoo steam llua olspookishmagus smlavine infernix Blondie101010 sybariten s1b1 cornfeedhobo tomboy64 dunz0r synthmeat flying_sausages Ekho LambdaComplex pyeverything dawg mindhunter tomreyn HyP3r loworderbit Tadgy xiaomiao d1rewolf Exterminador chromis eqw nuclearg1 oj moldorcoder7_
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :beencubed ianmacd steven_saus extor ztrawhcse DLange And1 bfortified stemid dodo deltab greyrat nisstyre peterrooney Milos nvz comrumino kilobyte_ch HelloShitty ntwk downtrip shalok rubin55 itu EerdAppel fcser Hash a_west greybot chrfle scoobydoo MetaNova Penguin666x Tristam mmercer gordonfish capn Strykar w0ng CoreISP AquaticBoy Starfoxxes damyan willist torresjrjr Anvil Furai kiryin dstein64 jramsay Buliarou1 djph thib_ Pokey chodonne_ Trieste _val_
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :queue- sahilister gumbo Tabmow Oddly katsuragi muirrum koollman Friithian omnigoat Norkle pooby af Soliton jaskal jwash ryo apathor tinystoat phogg unixman nickodd koolazer amrx dob1 mingdao jonatura1 OlCe gpol skylite_ voiceofreason indy hubvu_ trane mattf_ kreig przemoc Bayes znf amosbird ggoes argonel DreamweaverN energizer bionade24 Henry151 StathisA_ skreech Bilge- lord4163 cacheyourdreams dka rkta frojnd1 junicchi_ mikeputnam2 hendry hsv_ riddle
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :bakerst micronnn lmv_ victor prime chilversc erri noent burakcank friedrich_ MentalExcuse liam__ aryak- jakesyl__ AsenMx Anarchic suffer lachesis merpnderp artlogic_ holbrode lilalinux ghoti_ marcel r00t`work a1 derpadmin esselfe plopix[m] grawity Manouchehri ccl oldlaptop axisys_ mags megamus_prime bradp- uhu- |xD tofran xcm_ hqdruxn08 joo-_ ih8wndz Lunatrius SJrX anddam vmeson JanC sunny93 MercilessDeth DonRichie somlis n8chan wwalker k-man litheum Error
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :gdd osse Maxdamantus itok mixfix41 yolo iliv vee pikapika jle Arya[m]123 Guest6522 lockywolf shailangsa defjam led_belly Naib voldial Sqaure JyZyXy anderson td001 andreas303 redgloboli Philonous avalon Kobaz chymera edr Dan39 tsp lautre[m] elongated_ferret jmcantrell Fernando-Basso ialokin Hamled owl4ce[m] jinsun_ at_work sm mkoskar DUPS dfdx randm mnabid lux0r amber[m] geirha pflanze lopid N0ZYC Noventicx1 nicoty freshgum[m] LukaNovak[m] mattcen
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :expipiplus1 artemon ElChayo[m]1 soundwave[m] anak8awan9hs[m] ForeverNoob[m] Psi-Jack[m] Celmor[m] ormaaj CarlFK quas[m] NRK[m] lkhn kuhilas gordonfish[m] aplund go4godvin Huy[m] hussam matthewcroughan dza az haro pyre Camusensei wodencafe madnight_ woky redo _0x5fc3 ZarTek_ tedster- vel SaadKnight rwp jochum acegallagher Fjord8 Sayona nortoh Psi-Jack BUSY theFr1nge deetwelve phy1729 mns foul_owl makara makara1 LuKaRo Laskolnyk cluelessperson bboles
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :slaughter chunky mweckbecker ws2k3 akaporu [R] LowTax n-st bleb catern nickorta12 particleflux modin mschiff BlueShark chemsmith masterkorp Ankhers mrkajetanp mcint tm512 YHVH hwrd firewyre BrowseMan simplicity OMGOMG xxzz Roedy tabakhase juhop barjac earthbre| gothicserpent xaxas aead jelly enyc bwe sjs dkeohane2 twkm invra nescafe1001 koala_man Darkfoe fsg pwillard mhmd ullbeking_ groscon all64bits lazycat Artea yamchah2 bougyman colo Hyde whatsupboy
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :Chaser CrtxReavr Spydar007 sebastorama pocketprotector Tahvok dlam obiwahn starz user282069 user3456 Patsie Uqbar Benett fructose Exa glider parst Doqnach braxas dfg ljharb odc jlc wolf- sixwheeledbeast termos noord bobloblaw311 JumpinBanana rdz Dev0n CRThaze1 Muzer arash ParkerR vancz A_Dragon z14 guifipedro_ simoneb_ supernov1h grossing useretail tarzeau Riviera b0o kenyon leftyfb wangledorf p3rL akelly NickMirage dramz Emil siodor depesz mrtnt_ mcfrdy
+:erbium.libera.chat 353 shirc-fagci-0481 = #bash :CalimeroTeknik gajus theglass soifou chronon clemens3 auri aphorise zaratustra_ jp11 petemc ttys000 HumanG33k finsternis vinnix jan6 e0 edk nochi birkoff rigid samsmith Enissay eschwartz vx rawgreaze PsyZeus eruditass plasma boreas Pent shbot atmx bdeferme strudl Yorick- sa korros con3 hesco3 picooz_ userdocs w1kl4s quesker gl ops sunyibo rdrg109 laris
+:erbium.libera.chat 366 shirc-fagci-0481 #bash :End of /NAMES list.
+PING :erbium.libera.chat
+:shad!~shad@user/shad QUIT :Ping timeout: 240 seconds
+PING :erbium.libera.chat
