@@ -102,11 +102,12 @@ function send() {
 
 function process_data() {
     local data="$1"
-    local code="$(cut -d ' ' -f2 <<< "$data")"
+    local code_rest="${data#* }"
+    local code="${code_rest%% *}"
 
     case "$code" in
         353)
-            cut -d ' ' -f4- <<< "$data" | xargs printf "%s\n" >> "$users"
+            xargs printf "%s\n" <<< "${code_rest#* }" >> "$users"
             ;;
         366) render_users ;;
     esac
